@@ -124,12 +124,13 @@ docker exec -it residentialproperdocparse_app php artisan db:seed --force
 
 ## Screenshots
 
-See `docs/screenshots/`:
+![Home](docs/screenshots/home.png)
 
-- `home.png` — public marketing home
-- `features.png` — module catalog
-- `admin-dashboard.png` — Filament dashboard
-- `document-intakes.png` — document intake queue
+![Features](docs/screenshots/features.png)
+
+![Admin dashboard](docs/screenshots/admin-dashboard.png)
+
+![Document intakes](docs/screenshots/document-intakes.png)
 
 ## Integrations (planned / toggleable)
 
